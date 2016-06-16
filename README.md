@@ -58,6 +58,7 @@ Two Wordnet entries with non-common roots
 
 
 Factors limiting the  semantic relationships between entries in the wordnet: 
+---------------------------------------
 
 -The accuracy of Pattern's POS Tagger   
 
