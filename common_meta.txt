@@ -1,0 +1,109 @@
+0) My teacher is a dragon
+ -> figurative speech (two entries, with no roots)
+1) Their home was a prison
+ -> figurative speech (two entries, with no roots)
+2) Life is a roller coaster
+ -> figurative speech (two entries, with no roots)
+3) America is a melting pot
+ -> figurative speech (two entries, with no roots)
+4) His eyes were ice
+ -> figurative speech (two entries, with no roots)
+5) The world is a stage
+ -> figurative speech (two entries, with no roots)
+6) Life is a fashion show
+ -> figurative speech (two entries, with no roots)
+7) Time is money
+ -> figurative speech (two entries, with no roots)
+8) Laughter is the music of the soul
+ -> figurative speech (two entries, with no roots)
+9) The peaceful lake was a mirror
+ -> figurative speech (two entries, with no roots)
+10) Your brain is a computer
+ -> figurative speech (two entries, with no roots)
+11) The car was a furnace in the son
+ -> figurative speech (two entries, with no roots)
+12) The park was a lake after the rain
+ -> figurative speech (two entries, with no roots)
+13) The lawn is a green carpet
+ -> figurative speech (two entries, with no roots)
+14) The kids were monkeys on the jungle gym
+ -> is a verifiable falsehood
+15) The stars are sparkling diamonds
+ -> figurative speech (two entries, with no roots)
+16) My brother is a couch potato
+ -> figurative speech (two entries, with no roots)
+17) The clouds are balls of cotton
+ -> figurative speech (two entries, with no roots)
+18) His stomach is a black hole
+ -> figurative speech (two entries, with no roots)
+19) His heart is a rock
+ -> figurative speech (two entries, with no roots)
+20) The interstate was a parking lot at rush hour
+ -> figurative speech (two entries, with no roots)
+21) Books are the keys to your imagination
+ -> figurative speech (two entries, with no roots)
+22) The ballerina was a swan
+ -> figurative speech (two entries, with no roots)
+23) Her angry words were bullets to him
+ -> figurative speech (two entries, with no roots)
+24) The thunder was a lion
+ -> figurative speech (two entries, with no roots)
+25) The road was a ribbon stretching across the desert.
+ -> figurative speech (two entries, with no roots)
+26) a car is a vehicle
+ -> is a verifiable true over-generalization
+27) a car is a motor vehicle
+ -> is a verifiable fact
+28) a vehicle is a car 
+ -> is a verifiable false over-generalization
+29) a motor vehicle is a car
+ -> is a verifiable falsehood
+30) a car is a boat
+ -> figurative speech (two entries, with no roots)
+31) a boat is a motor vehicle
+ -> figurative speech (two entries, with no roots)
+32) a boat is a vehicle
+ -> is a verifiable true over-generalization
+33) a vehicle is a boat 
+ -> is a verifiable false over-generalization
+34) Love is sex 
+ -> is a verifiable fact
+35) Love is sexual desire
+ -> is a verifiable true over-generalization
+36) Love is a emotion
+ -> is a verifiable fact
+37) Love is a nutrient
+ -> 
+38) Love is a journey
+ -> figurative speech (two entries, with no roots)
+39) Love is a fluid in a container
+ -> figurative speech (two entries, with no roots)
+40) Love is fire
+ -> figurative speech (two entries, with no roots)
+41) Love is an economic exchange
+ -> figurative speech (two entries, with no roots)
+42) Love is a natural force
+ -> figurative speech (two entries, with no roots)
+43) Love is a physical force
+ -> figurative speech (two entries, with no roots)
+44) Love is a captive animal
+ -> figurative speech (two entries, with no roots)
+45) Love is war
+ -> figurative speech (two entries, with no roots)
+46) Love is a social superior
+ -> 
+47) Love is rapture
+ -> figurative speech (two entries, with no roots)
+48) Love is a thrill ride
+ -> figurative speech (two entries, with no roots)
+49) Love is a fine wine
+ -> figurative speech (two entries, with no roots)
+50) Love is a garden
+ -> figurative speech (two entries, with no roots)
+51) Love is a battlefield
+ -> figurative speech (two entries, with no roots)
+52) Love is an experiment
+ -> figurative speech (two entries, with no roots)
+53) Love is a fragile flower opening to the warmth of spring
+ -> figurative speech (two entries, with no roots)
+54) Love is a lemon – either bitter or sweet -> figurative speech (two entries, with no roots)
