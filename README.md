@@ -95,7 +95,7 @@ Pattern 2.6
 How To Use:
 -------------------- 
 
-Syntax:  python <program> <sentences to check> <name of ouput file>
+Syntax:  python program, sentences to check, name of ouput file
 
 In Terminal:
 
